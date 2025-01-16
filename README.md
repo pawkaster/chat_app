@@ -5,7 +5,7 @@ colorFrom: gray
 colorTo: red
 sdk: streamlit
 sdk_version: 1.41.1
-app_file: app.py
+app_file: chat_bot/chatbot_app.py
 pinned: false
 ---
 
